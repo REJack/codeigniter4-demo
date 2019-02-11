@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1549879220">
+  <project timestamp="1549879220">
+    <package name="App\Models">
+      <file name="/Users/rejack/Projekte/GitHub/REJack/codeigniter4-demo/app/Models/UserModel.php">
+        <class name="App\Models\UserModel" namespace="App\Models">
+          <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
+        </class>
+        <line num="16" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="3"/>
+        <line num="18" type="stmt" count="3"/>
+        <line num="20" type="stmt" count="3"/>
+        <line num="22" type="stmt" count="3"/>
+        <line num="23" type="stmt" count="3"/>
+        <line num="24" type="stmt" count="3"/>
+        <line num="26" type="stmt" count="3"/>
+        <metrics loc="27" ncloc="27" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
+      </file>
+    </package>
+    <metrics files="1" loc="27" ncloc="27" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="6" elements="7" coveredelements="7"/>
+  </project>
+</coverage>
